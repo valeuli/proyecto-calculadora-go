@@ -1,0 +1,9 @@
+# Ignorar ejecutables y binarios de Go
+*.exe
+*.out
+*.bin
+
+# Archivos temporales de editor
+.vscode/
+.idea/
+*.swp
